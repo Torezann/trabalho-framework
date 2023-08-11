@@ -1,0 +1,32 @@
+.esqcima{
+	position: fixed;
+	width: 300px;/*largura*/
+	height: 150px;/*altura*/
+	top: 5px;/*5 pixels a partir do topo da página*/
+	left: 5px;/*5 pixels a partir da margem esqueda da página*/
+	
+}
+.esqbaixo{
+	position: fixed;
+	width: 300px;
+	height: 150px;
+	top: 500px;
+	left: 5px;
+	
+}
+.dircima{
+	position: fixed;
+	width: 300px;/*largura*/
+	height: 150px;/*altura*/
+	top: 5px;/*5 pixels a partir do topo da página*/
+	right: 5px;/*5 pixels a partir da margem direita da página*/
+	
+}
+.dirbaixo{
+	position: fixed;
+	width: 300px;
+	height: 150px;
+	top: 500px;
+	right: 5px;
+	
+}
